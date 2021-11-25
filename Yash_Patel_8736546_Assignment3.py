@@ -105,6 +105,9 @@ class Calculate():
         print("\nTOTAL COST of your order after adding all discounts and tax is: ", total_1)
     elif s_discount == 1:
         print("\nTOTAL COST of your order after adding all discounts and tax is: ", total_2)
+    else:
+        print("\nTOTAL COST of your order after adding tax is: ", total_4)
+
 
     
 
