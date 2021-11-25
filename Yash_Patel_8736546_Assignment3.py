@@ -103,6 +103,9 @@ class Calculate():
         print("\nCOST of your order after adding all discounts and tax is: ", total_3)
     elif num_shirts >= 3 or num_shorts >= 3:
         print("\nTOTAL COST of your order after adding all discounts and tax is: ", total_1)
+    elif s_discount == 1:
+        print("\nTOTAL COST of your order after adding all discounts and tax is: ", total_2)
+
     
 
 
